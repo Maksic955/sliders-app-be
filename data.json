@@ -1,0 +1,56 @@
+[
+  {
+     "id":1,
+     "index":"0",
+     "imgUrl":"https://images.unsplash.com/photo-1487147264018-f937fba0c817?auto=format&fit=crop&q=80&w=3087&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+     "audioUrl":"/audio/acbBrightDay.mp3",
+     "text":"W jasny dzień, kawa świeci niczym gwiazda, \n AudioCoffee Band w dźwiękach jak radosna fala. \n\n",
+     "title":"Bright Day",
+     "author":"AudioCoffee Band"
+  },
+  {
+     "id":2,
+     "index":"1",
+     "imgUrl":"https://images.unsplash.com/photo-1509114397022-ed747cca3f65?auto=format&fit=crop&q=80&w=3024&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+     "audioUrl":"/audio/beatMekanikCircles.mp3",
+     "text":"W kręgu czasu, Beat Mekanik krąży wokół, \n Circles dźwięków w magiczny taniec przemieniając. \n Słuchaczom radość w rytmie przynosząc. \n\n",
+     "title":"Circles",
+     "author":"Beat Mekanik"
+  },
+  {
+     "id":3,
+     "index":"2",
+     "imgUrl":"https://images.unsplash.com/photo-1494253109108-2e30c049369b?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+     "audioUrl":"/audio/becouseHeartAWayToSuccess.mp3",
+     "text":"A way to success, serce bije jak melodia, \n Becouse Heart w dźwiękach drogi ku triumfowi. \n Muzyka, jak klucz, otwiera drzwi do przyszłości. \n\n",
+     "title":"A way to success",
+     "author":"Becouse Heart"
+  },
+  {
+     "id":4,
+     "index":"3",
+     "imgUrl":"https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&q=80&w=3011&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+     "audioUrl":"/audio/johnLopkerPopularUSAMajorityFemaleIran.mp3",
+     "text":"Female Iran, opowieść silna, nieznana, \n\n John Lopker maluje dźwiękiem obraz odległego kraju. \n Historia płynie, jak rzeka, z wiatrem tańcząc. \n\n",
+     "title":"Female Iran",
+     "author":"John Lopker"
+  },
+  {
+     "id":5,
+     "index":"4",
+     "imgUrl":"https://images.unsplash.com/photo-1574169208507-84376144848b?auto=format&fit=crop&q=80&w=2958&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+     "audioUrl":"/audio/acbBrightSparkInTheDark.mp3",
+     "text":"W jasnym iskrzącym mroku, AudioCoffee Band znów gra, \n Bright Spark In The Dark, jak gwiazda na nocnym niebie. \n Dźwięki migoczą, jak światło w czarnej przestrzeni. \n\n",
+     "title":"Bright Spark In The Dark",
+     "author":"AudioCoffee Band"
+  },
+  {
+     "id":6,
+     "index":"5",
+     "imgUrl":"https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&q=80&w=2952&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+     "audioUrl":"/audio/zaneLittleEmptyStretch.mp3",
+     "text":"Puste są przestrzenie, Zane Little śpiewa cicho, \n Empty Stretch, jak płótno czekające na barwy. \n Melancholia brzęczy, jak dźwięk w pustym sercu. \n\n",
+     "title":"Empty",
+     "author":"Zane Little"
+  }
+]
