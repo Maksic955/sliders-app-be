@@ -2,4 +2,5 @@
 Backend for sliders app
 
 To start server use command 
-**npm start**
+
+- **npm start**
